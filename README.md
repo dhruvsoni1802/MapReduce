@@ -9,6 +9,7 @@ MapReduce/
 ├── cmd/
 │   ├── mrcoordinator/    # Coordinator executable
 │   └── mrworker/         # Worker executable
+|   └── mrsequential/     # Sequential map reduce executable
 ├── mr/                   # Core MapReduce library
 ├── mrapps/              # MapReduce applications (plugins)
 └── test-files/          # Test input files
